@@ -1,5 +1,5 @@
 {
-  "name": "react-isomorphic-render",
+  "name": "webpack-hot-middleware",
   "main": "index.d.ts",
-  "homepage": "https://github.com/halt-hammerzeit/react-isomorphic-render"
+  "homepage": "https://github.com/glenjamin/webpack-hot-middleware"
 }
